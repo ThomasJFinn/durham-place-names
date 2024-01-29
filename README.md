@@ -15,6 +15,9 @@ We build a decoder model based on the transformer architecture in `transformer.i
 To see the progression in performance, here are examples of generated place names from each model:
 
 **Bigrams** ~ Batharessh, Tarkey Chrdoe, W.
+
 **MLP** ~ Naton Ticgeswowen, Wullitdor Hdon Wore Wawestick, Eadortate.
+
 **WaveNet** ~ Blackhouse, Wynybagate, Hamstatley.
+
 **Transformer** ~ Som Springton, Parkham, Swainsworth.
