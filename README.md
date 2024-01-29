@@ -8,7 +8,7 @@ We build a bigram language model to generate new place names in County Durham to
 We build a multi-layer perceptron in the spirit of [Bengio et al](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) to generate new place names in County Durham that outperforms the simple bigram language model in `MLP.ipynb`.
 ## Generating new places in County Durham with WaveNet
 We build a more sophisticated neural network based on the [WaveNet](https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio) architecture that greatly improves upon the multi-layer perceptrion approach in `WaveNet.ipynb`.
-## Generating new places in County Durham with a transformer model.
+## Generating new places in County Durham with a transformer model
 We build a decoder model based on the transformer architecture in `transformer.ipynb` that outperforms all our previous models.
 
 ## Performance
